@@ -116,7 +116,7 @@ void getn(const int *first, const int *last, int *n) {
         }
     }
 }
-
+ 
 int main()
 {
 	freopen("c:\\input.txt", "rt", stdin);
