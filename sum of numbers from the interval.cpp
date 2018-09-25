@@ -130,5 +130,5 @@ int main() {
     mull(sum, n, r);
     div_by_two(r);
 	fclose(stdout);
-	fclose(stdin);
+	fclose(stdin); 
 }
